@@ -1,0 +1,3 @@
+Hi this is eboy from Creators lab,.
+Here i have shared some object detection techiques with you all.
+Just open and do funny things with openCV
